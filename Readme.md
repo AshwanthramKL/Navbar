@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Rating page](./images/Website_preview.jpg)
+![Full screen](./images/Website_preview.jpg)
+![Minimised screen](./images/Website_preview_2.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Review-Card)
-- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Review-Card/)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io//)
 
 ## My process
 
@@ -44,7 +45,11 @@ Users should be able to:
 
 ### What I learned
 
-This project helped me recap over some concepts of CSS and JS such as  Event listerners, DOM manipulation...
+This project helped me recap over some concepts of CSS and JS such as  Event listerners, DOM manipulation techniques including:
+- classList
+- Class addition and removal
+- toggle
+
 
 ## Author
 
