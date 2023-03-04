@@ -1,7 +1,6 @@
-# Reviews/Quotes card
+# Nav bar
 
-
-This is a solution to the Reviews/Quotes card project which is a part of John Smilga's 15 JS projects tutorial.
+This is a solution to the Nav project which is a part of John Smilga's 15 JS projects tutorial.
 
 ## Table of contents
 
@@ -22,8 +21,7 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
-- See the Review change upon click of buttons.
-- Generate random review.
+- See the Nav bar change upon change in screen size.
 
 ### Screenshot
 
